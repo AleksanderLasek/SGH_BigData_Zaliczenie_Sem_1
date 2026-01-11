@@ -1,0 +1,2 @@
+# SGH_BigData_Zaliczenie_Sem_1
+SGH_BigData_Zaliczenie_Sem_1
